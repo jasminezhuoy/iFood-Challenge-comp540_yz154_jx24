@@ -5,3 +5,4 @@
 * Ensemble.ipynb - Process of ensemble learning for 4 models
 
 Our models for ensemble learning are in drive: https://drive.google.com/open?id=1hUs9bGE-HHQTqoESNCOeur_HVVp4zBZF
+Competition Information: https://www.kaggle.com/c/ifood-rice
